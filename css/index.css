@@ -1,0 +1,13 @@
+/*
+* @Author: Administrator
+* @Date:   2017-07-24 18:43:44
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-07-24 19:22:04
+*/
+
+h1{float: left;z-index:300;margin-top:50px;margin-left:40px;}  
+#avatar img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
